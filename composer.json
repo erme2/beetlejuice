@@ -1,0 +1,13 @@
+{
+    "name": "erme2/beetlejuice",
+    "description": "A shell project around  nesk/puphpeteer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "erme2",
+            "email": "me@erme2.com"
+        }
+    ],
+    "require": {}
+}
